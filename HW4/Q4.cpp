@@ -36,4 +36,4 @@ int main()
     }
     cout << matrix[0][k - 1] << endl;
     return 0;
-}
+} 
