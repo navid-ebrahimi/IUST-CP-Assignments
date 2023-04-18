@@ -7,3 +7,5 @@ My solutions to IUST's Competitive Programming assignments, Spring 2023, Dr. Eet
     - Getting to know more about Cpp and its features
 - HW2
   - Programs about greedy algorithm
+- HW3
+  - Programs about mathematical problems
