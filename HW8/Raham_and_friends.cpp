@@ -12,7 +12,7 @@ int bfs(int start, vector<vector<int>>& adj) {
     q.push(start);
     visited[start] = true;
     
-
+    
     while (!q.empty()) {
         int node = q.front();
         q.pop();
