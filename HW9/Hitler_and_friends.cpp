@@ -55,13 +55,6 @@ int main() {
     }
 
     vector<double> dist = dijkstra(start, n+10);
-    // for (ll i = 0; i < 10; i++) {
-    //     if (dist[i] == ll_MAX) {
-    //         cout << "INF ";
-    //     } else { 
-    //         cout << dist[i] << " ";
-    //     }
-    // }
     cout << dist[n-1] << endl;
 
     return 0;
