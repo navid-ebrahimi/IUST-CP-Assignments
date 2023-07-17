@@ -10,8 +10,10 @@ My solutions to IUST's Competitive Programming assignments, Spring 2023, Dr. Eet
 - HW3
   - Programs about Mathematical problems
 - HW4
-  - Programs about Dynamic Programming algorithm
+  - Programs about Dynamic Programming algorithm (Difficulty level 1)
 - HW5
   - Programs about Dynamic Programming algorithm (Difficulty level 2)
 - HW6
   - Programs about Dynamic Programming algorithm (Difficulty level 3)
+- HW7
+  - Programs about Graph algorithm (Difficulty level 1)
