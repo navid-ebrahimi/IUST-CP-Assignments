@@ -1,6 +1,6 @@
 # IUST-CP-Assignments
 
-My solutions to IUST's Competitive Programming assignments, Spring 2023, Dr. Eetemadi
+My solutions to IUST's Competitive Programming assignments, Spring 2023, [Dr. Eetemadi](https://scholar.google.com/citations?user=Q25s5KkAAAAJ&hl=en)
 
 - HW1
   - About the Implementation Code in Cpp
@@ -21,3 +21,5 @@ My solutions to IUST's Competitive Programming assignments, Spring 2023, Dr. Eet
   - Programs about Graph algorithm (Difficulty level 2)
 - HW9
   - Programs about Graph algorithm (Difficulty level 3)
+- HW10
+  - Programs about Segmentation Tree & Decomposition
