@@ -17,3 +17,5 @@ My solutions to IUST's Competitive Programming assignments, Spring 2023, Dr. Eet
   - Programs about Dynamic Programming algorithm (Difficulty level 3)
 - HW7
   - Programs about Graph algorithm (Difficulty level 1)
+- HW8
+  - Programs about Graph algorithm (Difficulty level 2)
